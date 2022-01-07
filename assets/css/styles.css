@@ -374,6 +374,10 @@ img{
 .footer__social:hover{
     color: var(--first-color);
 }
+.foot{
+    margin-left: 500px;
+    margin-top: 20px;
+}
 
 /* ===== MEDIA QUERIES =====*/
 /* For small devices */
